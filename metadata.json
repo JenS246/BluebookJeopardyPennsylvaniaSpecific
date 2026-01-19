@@ -1,0 +1,5 @@
+{
+  "name": "Pennsylvania Bluebook Jeopardy",
+  "description": "A Jeopardy-style game for Pennsylvania paralegal students to practice Bluebook citation rules, featuring hardcoded questions on PA and Federal case law.",
+  "requestFramePermissions": []
+}
